@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,git,github,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,git,github,wordpress,typescript,node" />
 </p>
 
 ---
