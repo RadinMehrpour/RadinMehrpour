@@ -48,9 +48,3 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RadinMehrpour&style=for-the-badge&color=0e75b6" />
-</p>
