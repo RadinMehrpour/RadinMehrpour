@@ -51,7 +51,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/RadinMehrpour/RadinMehrpour/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/RadinMehrpour">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
