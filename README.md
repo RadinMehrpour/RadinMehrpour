@@ -1,21 +1,18 @@
-<h1 align="center">Hi 👋, I'm Radin Mehrpour</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Radin%20Mehrpour&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer&descAlignY=58"/>
 
 <p align="center">
-  Front-End/Wordpress Developer
-</p>
-
-<p align="center">
-  Passionate about building responsive, user-friendly web applications and continuously learning modern web technologies.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Front-End+Developer;Crafting+Beautiful+%26+Responsive+Interfaces;React+%7C+TypeScript+%7C+Next.js;Turning+Ideas+Into+Code" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Front-End Developer
-- 🌱 Currently expanding my knowledge in modern web development
-- 🎨 Interested in clean UI, responsive design, and great user experience
-- 🛠️ Experienced with WordPress, Elementor, and WooCommerce
+- 💻 Front-End Developer focused on the React ecosystem
+- 🌱 Currently learning Next.js & Node.js
+- 🎨 Passionate about clean UI, responsive design, and great user experiences
+- 🛠️ Experienced with WordPress, Elementor & WooCommerce
+- 🚀 Always building new projects and improving my skills
 
 ---
 
@@ -30,6 +27,9 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -41,31 +41,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RadinMehrpour&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadinMehrpour&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RadinMehrpour&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RadinMehrpour/RadinMehrpour/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -74,17 +49,8 @@
   </a>
 </p>
 
-<!--
-**RadinMehrpour/RadinMehrpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RadinMehrpour&style=for-the-badge&color=0e75b6" />
+</p>
