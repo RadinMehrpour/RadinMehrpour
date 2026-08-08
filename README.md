@@ -41,7 +41,7 @@
 
 ## 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/
 radin-mehrpour" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
@@ -49,9 +49,5 @@ radin-mehrpour" target="_blank">
 
   <a href="https://t.me/Necrodisiac" target="_blank">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram"/>
-  </a>
-
-  <a href="tel:+989123978050">
-    <img src="https://cdn.simpleicons.org/phone/25D366" width="40" height="40" alt="Phone"/>
   </a>
 </p>
