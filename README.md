@@ -44,14 +44,14 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/
 radin-mehrpour" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  
+
   <a href="https://t.me/Necrodisiac" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram"/>
   </a>
 
   <a href="tel:+989123978050">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+    <img src="https://cdn.simpleicons.org/phone/25D366" width="40" height="40" alt="Phone"/>
   </a>
 </p>
