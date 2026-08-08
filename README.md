@@ -39,10 +39,19 @@
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://github.com/RadinMehrpour">
-    <img src="https://skillicons.dev/icons?i=github" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/
+radin-mehrpour" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://t.me/Necrodisiac" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+
+  <a href="tel:+989123978050">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
   </a>
 </p>
