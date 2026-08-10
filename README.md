@@ -8,7 +8,6 @@
 
 Hi, I'm Radin Mehrpour
 
-Front-End Developer
 
 I’m a Front-End Developer focused on building modern, responsive, and user-friendly web applications.
 
@@ -41,34 +40,6 @@ What I Do
 ---
 
 Featured Projects
-
-🎬 Movie Explorer
-
-A responsive movie discovery application built with React and the OMDb API.
-
-React · JavaScript · Tailwind CSS · REST API
-
-📚 Personal Library
-
-A modern web application for managing and organizing a personal book collection.
-
-React · Vite · Tailwind CSS
-
-🎨 3D Web Experiments
-
-Interactive 3D experiments and browser-based projects built with JavaScript and Three.js.
-
-JavaScript · Three.js · WebGL
-
----
-
-Currently
-
-- Building React projects
-- Improving my TypeScript skills
-- Exploring modern frontend architecture
-- Learning through real-world projects
-
 ---
 
 Connect With Me
