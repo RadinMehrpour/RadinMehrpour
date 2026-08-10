@@ -25,7 +25,9 @@ Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vite,wordpress,figma" />
-</p>---
+</p>
+
+---
 
 What I Do
 
