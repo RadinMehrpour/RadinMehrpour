@@ -42,6 +42,7 @@ What I Do
 ---
 
 Featured Projects
+
 ---
 
 Connect With Me
