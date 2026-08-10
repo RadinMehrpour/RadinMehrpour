@@ -6,48 +6,82 @@
 
 ---
 
-## 🚀 About Me
+Hi, I'm Radin Mehrpour
 
-- 💻 Front-End Developer focused on the React ecosystem
-- 🌱 Currently learning Next.js & Node.js
-- 🎨 Passionate about clean UI, responsive design, and great user experiences
-- 🛠️ Experienced with WordPress, Elementor & WooCommerce
-- 🚀 Always building new projects and improving my skills
+Front-End Developer
+
+I’m a Front-End Developer focused on building modern, responsive, and user-friendly web applications.
+
+I enjoy turning ideas into clean interfaces and continuously improving my skills through real-world projects.
 
 ---
 
-## 🚀 Tech Stack
+Tech Stack
+
+Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
+</p>Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vite,wordpress,figma" />
+</p>---
+
+What I Do
+
+- Build responsive and modern web interfaces
+- Develop interactive applications with React
+- Write clean and maintainable JavaScript & TypeScript
+- Work with REST APIs
+- Build and customize WordPress websites
+- Create reusable and scalable UI components
+- Use modern AI tools to improve development workflow
+
+---
+
+Featured Projects
+
+🎬 Movie Explorer
+
+A responsive movie discovery application built with React and the OMDb API.
+
+React · JavaScript · Tailwind CSS · REST API
+
+📚 Personal Library
+
+A modern web application for managing and organizing a personal book collection.
+
+React · Vite · Tailwind CSS
+
+🎨 3D Web Experiments
+
+Interactive 3D experiments and browser-based projects built with JavaScript and Three.js.
+
+JavaScript · Three.js · WebGL
+
+---
+
+Currently
+
+- Building React projects
+- Improving my TypeScript skills
+- Exploring modern frontend architecture
+- Learning through real-world projects
+
+---
+
+Connect With Me
+
+<p>
+  <a href="https://github.com/RadinMehrpour">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/radin-mehrpour-a36828392/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
-
----
-
-## 📌 Featured Projects
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/
-radin-mehrpour" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://t.me/Necrodisiac" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram"/>
-  </a>
+  <i>Building things, learning continuously.</i>
 </p>
