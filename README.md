@@ -54,6 +54,9 @@ Connect With Me
   <a href="https://t.me/Necrodisiac">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
   </a>
+  <a href="mailto:Radinmehrpour2007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
