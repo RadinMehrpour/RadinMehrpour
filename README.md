@@ -1,16 +1,24 @@
 <div align="center">
 
-# RADIN MEHRPOUR
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   $ whoami                                                   │
+│   radin-mehrpour                                              │
+│                                                              │
+│   $ role                                                      │
+│   Front-End Developer                                         │
+│                                                              │
+│   $ stack                                                     │
+│   React · TypeScript · Next.js · Vite · Tailwind              │
+│                                                              │
+│   $ status                                                    │
+│   building things for the web_                                │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
-`Front-End Developer`
-
-**React · TypeScript · Next.js**
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=Building+interfaces+that+feel+good+to+use.;Turning+ideas+into+clean+code.;Always+learning.+Always+building." />
-
-<br/><br/>
+</div>
+```
 
 ---
 
