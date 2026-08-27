@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0F172A,100:1E293B&text=RADIN%20MEHRPOUR&fontSize=46&fontColor=38BDF8&fontAlignY=42&animation=fadeIn" width="100%"/>
+# RADIN MEHRPOUR
+
+`Front-End Developer`
+
+**React · TypeScript · Next.js**
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=94A3B8&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%2B+TypeScript+%2B+Next.js;Building+clean%2C+modern+web+experiences;Code.+Design.+Ship." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=Building+interfaces+that+feel+good+to+use.;Turning+ideas+into+clean+code.;Always+learning.+Always+building." />
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,tailwind,git,github&theme=dark" />
-
-</div>
+<br/><br/>
 
 ---
 
