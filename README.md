@@ -1,21 +1,20 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:111827,100:020617&text=RM&fontSize=72&fontColor=38BDF8&fontAlign=18&fontAlignY=50"/>
+
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   $ whoami                                                   │
-│   radin-mehrpour                                              │
-│                                                              │
-│   $ role                                                      │
-│   Front-End Developer                                         │
-│                                                              │
-│   $ stack                                                     │
-│   React · TypeScript · Next.js · Vite · Tailwind              │
-│                                                              │
-│   $ status                                                    │
-│   building things for the web_                                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+RADIN MEHRPOUR
+──────────────────────────────────────────────
+
+IDENTITY        FRONT-END DEVELOPER
+LOCATION        TEHRAN / IR
+SPECIALTY       WEB INTERFACES
+STACK           REACT · TS · NEXT.JS
+
+CURRENT MODE    BUILDING ████████████████ 100%
+
+──────────────────────────────────────────────
+< CODE / DESIGN / EXPERIMENT / REPEAT >
 
 </div>
 ```
