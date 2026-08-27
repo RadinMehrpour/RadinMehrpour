@@ -1,8 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Radin%20Mehrpour&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer&descAlignY=58"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Front-End+Developer;Crafting+Beautiful+%26+Responsive+Interfaces;React+%7C+TypeScript+%7C+Next.js;Turning+Ideas+Into+Code" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0F172A,100:1E293B&text=RADIN%20MEHRPOUR&fontSize=46&fontColor=38BDF8&fontAlignY=42&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=94A3B8&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%2B+TypeScript+%2B+Next.js;Building+clean%2C+modern+web+experiences;Code.+Design.+Ship." />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,tailwind,git,github&theme=dark" />
+
+</div>
 
 ---
 
