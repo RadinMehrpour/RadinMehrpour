@@ -1,23 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:111827,100:020617&text=RM&fontSize=72&fontColor=38BDF8&fontAlign=18&fontAlignY=50"/>
+# RADIN MEHRPOUR
 
-```text
-RADIN MEHRPOUR
-──────────────────────────────────────────────
+`Front-End Developer`
 
-IDENTITY        FRONT-END DEVELOPER
-LOCATION        TEHRAN / IR
-SPECIALTY       WEB INTERFACES
-STACK           REACT · TS · NEXT.JS
+**React · TypeScript · Next.js**
 
-CURRENT MODE    BUILDING ████████████████ 100%
+<br/>
 
-──────────────────────────────────────────────
-< CODE / DESIGN / EXPERIMENT / REPEAT >
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=Building+interfaces+that+feel+good+to+use.;Turning+ideas+into+clean+code.;Always+learning.+Always+building." />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,vite,git&theme=dark" />
 
 </div>
-```
 
 ---
 
