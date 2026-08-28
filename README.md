@@ -29,6 +29,14 @@ Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>Tools & Platforms
 
 <p>
