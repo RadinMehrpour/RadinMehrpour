@@ -55,34 +55,65 @@ What I Do
 
 Featured Projects
 
-"19-16" (https://19-16.ir/)
+<table>
+<tr>
+<td width="50%" valign="top">🌐 19-16
 
-A web project developed as part of my professional work.
+Business Website
 
-"Amard" (https://amardco.com/)
+A production website built for a real-world business.
 
-A website developed for a business environment.
+<br><a href="https://19-16.ir/">
+<img src="https://img.shields.io/badge/↗%20Visit%20Website-111827?style=for-the-badge" />
+</a></td><td width="50%" valign="top">🌐 Amard
 
-"Book Discovery" (https://book-discovery-three.vercel.app/)
+Business Website
 
-A book search and discovery application built with React and TypeScript.
+A production website developed for a real-world company.
 
-"Weather App" (https://weather-app-phi-two-70.vercel.app/)
+<br><a href="https://amardco.com/">
+<img src="https://img.shields.io/badge/↗%20Visit%20Website-111827?style=for-the-badge" />
+</a></td>
+</tr><tr>
+<td width="50%" valign="top">📚 Book Discovery
 
-A responsive weather application built with React, TypeScript, and Vite.
+React · TypeScript
 
-"Tehran Navigator" (https://tehran-navigator-uea4-brown.vercel.app/)
+Search, explore, and discover books using the Open Library API.
 
-A Tehran-focused route-finding web application built with React, TypeScript, and Vite.
+<br><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br><br>
 
----
+<a href="https://book-discovery-three.vercel.app/">
+<img src="https://img.shields.io/badge/↗%20Live%20Demo-111827?style=for-the-badge" />
+</a></td><td width="50%" valign="top">☁️ Weather App
 
-Currently Learning
+React · TypeScript · Vite
 
-C# · .NET · Software Development · Backend · APIs · Databases
+A responsive weather application powered by an external API.
 
-Exploring the .NET ecosystem and building a broader foundation that can eventually lead into different areas of software development.
+<br><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br><br>
 
+<a href="https://weather-app-phi-two-70.vercel.app/">
+<img src="https://img.shields.io/badge/↗%20Live%20Demo-111827?style=for-the-badge" />
+</a></td>
+</tr><tr>
+<td colspan="2" valign="top">🗺️ Tehran Navigator
+
+React · TypeScript · Vite
+
+A Tehran-focused navigation application built around maps and route finding.
+
+<br><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /><br><br>
+
+<a href="https://tehran-navigator-uea4-brown.vercel.app/">
+<img src="https://img.shields.io/badge/↗%20Live%20Demo-111827?style=for-the-badge" />
+</a></td>
+</tr>
+</table>
 ---
 
 Connect With Me
