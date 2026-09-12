@@ -25,11 +25,11 @@ Tech Stack
 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,cs,ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,cs,python,html,css" />
 </p>Frameworks & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite,less,sass" />
+  <img src="https://skillicons.dev/icons?i=react,jquery,tailwind,bootstrap,vite,less,sass" />
 </p>Backend
 
 <p>
