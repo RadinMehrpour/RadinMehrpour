@@ -132,56 +132,6 @@ Connect With Me
 </p>
 I enjoy learning by building real projects, understanding how things work under the hood, and gradually expanding the range of problems I can solve with code.
 
----
-
-Tech Stack
-
-Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,ts,js,html,css" />
-</p>Frameworks & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,tailwind,bootstrap,vite" />
-</p>Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,figma,wordpress" />
-</p>---
-
-What I Do
-
-- Build software with C# and explore the .NET ecosystem
-- Develop modern web applications with React and TypeScript
-- Build REST APIs and backend services
-- Work with databases and external services
-- Write clean, readable, and maintainable code
-- Build responsive and accessible user interfaces
-- Create reusable software components
-- Build and customize WordPress websites
-- Learn different areas of software development through practical projects
-- Use modern AI tools to improve my development workflow
-
----
-
-Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">🌐 19-16
-
-Business Website
-
-A production website built for a real-world business.
-
-<br><a href="https://19-16.ir/">
-<img src="https://img.shields.io/badge/↗%20Visit%20Website-111827?style=for-the-badge" />
-</a></td><td width="50%" valign="top">🌐 Amard
 
 Business Website
 
