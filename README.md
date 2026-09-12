@@ -41,7 +41,7 @@ Languages
 </p>Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vs,figma,wordpress" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,wordpress" />
 </p>---
 
 What I Do
