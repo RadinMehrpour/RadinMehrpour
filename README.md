@@ -1,6 +1,6 @@
 <div align="center">RADIN MEHRPOURSoftware Developer
 
-"Go" · "TypeScript" · "React" · "Python"
+"Go" · "TypeScript" · "React" 
 
 <br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=Building+software+and+learning+how+things+work.;Exploring+backend+development+with+Go.;Building+modern+web+applications+with+React+and+TypeScript.;Turning+ideas+into+clean+and+maintainable+code.;Always+learning.+Always+building." /></div>
 
@@ -25,7 +25,7 @@ Tech Stack
 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=go,python,cs,ts,js,html,css" />
 </p>Frameworks & Technologies
 
 <p>
