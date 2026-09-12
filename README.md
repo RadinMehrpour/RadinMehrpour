@@ -29,7 +29,7 @@ Languages
 </p>Frameworks & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite,less,sass" />
 </p>Backend
 
 <p>
