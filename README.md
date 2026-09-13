@@ -1,6 +1,6 @@
 <div align="center">RADIN MEHRPOURSoftware Developer
 
-"Go" · "TypeScript" · "React" · "Python"
+"Go" · "TypeScript" · "React" 
 
 <br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=Building+software+and+learning+how+things+work.;Exploring+backend+development+with+Go.;Building+modern+web+applications+with+React+and+TypeScript.;Turning+ideas+into+clean+and+maintainable+code.;Always+learning.+Always+building." /></div>
 
@@ -14,8 +14,6 @@ I started with front-end development and have worked with React and TypeScript, 
 
 My current goal is to build backend services and APIs with Go, understand how systems work under the hood, and develop a stronger foundation in software engineering.
 
-I also work with Python and continue to explore different technologies and tools that help me solve real-world problems.
-
 I enjoy learning by building real projects, understanding how things work under the hood, and gradually expanding the range of problems I can solve with code.
 
 ---
@@ -25,11 +23,11 @@ Tech Stack
 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,cs,python,html,css" />
 </p>Frameworks & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=react,jquery,tailwind,bootstrap,less,sass,vite" />
 </p>Backend
 
 <p>
@@ -41,7 +39,7 @@ Languages
 </p>Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,jira,wordpress" />
 </p>---
 
 What I Do
