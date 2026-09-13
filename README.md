@@ -1,5 +1,4 @@
 <div align="center">RADIN MEHRPOUR
-  Software Developer
 
 "Go" · "TypeScript" · "React" 
 
